@@ -1,0 +1,23 @@
+.cabecera{
+    background-color: antiquewhite;
+    height: 90%;
+    width: 100%;
+}
+
+.h1{
+    margin-top: -10px;
+    color: blue;
+    font-size: 50px;
+    font-family: 'Segoe UI';
+    margin-left: 34px;
+    
+}
+
+.imagen{
+    width: 20%;
+    height: 45%;
+    margin-top: 50px ;
+}
+.cuerpo{
+    margin-top: 128px;
+}
